@@ -1,6 +1,7 @@
 # friskybot
 
 FriskyBot - nauka chodzenia robotów
+---
 
 Głównym założeniem projektu jest zbudowanie aplikacji, pozwalającej użytkownikowi projektować krok po kroku ruchy robota. Ruchy te można będzie wykorzystać w dwóch trybach gry: 
   *dla pojedynczego gracza polegającym na wykonywaniu zadań o zróżnicowanym  stopniu  trudności, gdzie celem będzie dotarcie do końca mapy,
