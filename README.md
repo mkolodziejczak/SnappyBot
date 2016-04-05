@@ -32,14 +32,14 @@ Wstępny podział obowiązków:
 
 Rozkład prac na semestry:
 
-1. I semestr:
+1. semestr:
  - silnik fizyczny
  - edytor ruchów
  - graficzny interfejs użytkownika
  - worzenie i zapis poziomów oraz ustawień
 
 
-1. II semestr:
+1. semestr:
  - silnik fizyczny
  - projektowanie poziomów
  - tryb multiplayer
