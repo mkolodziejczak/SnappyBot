@@ -1,4 +1,4 @@
-#FriskyBot - nauka chodzenia robotów
+#SnappyBot - nauka chodzenia robotów
 ---
 
 Głównym założeniem projektu jest zbudowanie aplikacji, pozwalającej użytkownikowi projektować krok po kroku ruchy robota. Ruchy te można będzie wykorzystać w dwóch trybach gry: 
